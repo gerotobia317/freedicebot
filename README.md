@@ -1,1 +1,1 @@
-# freedicebot
+# Free-Dicebot
