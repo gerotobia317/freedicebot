@@ -1,1 +1,1 @@
-# Free-Dicebot
+# Trial version ( until serverdown or any donation )
